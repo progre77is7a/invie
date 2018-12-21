@@ -1,0 +1,11 @@
+commit 4e121d694ec4b1f1ebf04d28566e85cc65272b9b
+Author: davidqi <dquintana@pcaingenieria.com>
+Date:   Fri Dec 21 11:02:41 2018 -0500
+
+    inicializar nuestro cabezote, hero y guitarras
+
+commit dcb655fc73d270d4b4d399d356a42cb55bad3148
+Author: davidqi <dquintana@pcaingenieria.com>
+Date:   Fri Dec 21 10:12:45 2018 -0500
+
+    inicializar nuestro landing
